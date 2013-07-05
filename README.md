@@ -1,8 +1,8 @@
 rain-forecast
 =============
 
-Gives a simple rain forecast based on data by forecast.io and using the [https://github.com/ZeevG/python-forcast.io](Python
-wrapper by Ze'ev Gilovitz and Tim Heckman). The bars are
+Gives a simple rain forecast based on data by forecast.io and using the
+[Python wrapper by Ze'ev Gilovitz and Tim Heckman](https://github.com/ZeevG/python-forcast.io). The bars are
 the precipitation probability of there being precipitation at the given time.
 If there is a possibility, the description on the right is regarding strength
 of the precipitation.
