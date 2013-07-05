@@ -1,7 +1,10 @@
 rain-forecast
 =============
 
-Gives a simple rain forecast based on data by forecast.io.
+Gives a simple rain forecast based on data by forecast.io. The bars are
+the precipitation probability of there being precipitation at the given time.
+If there is a possibility, the description on the right is regarding strength
+of the precipitation.
 
 1. Create your API key at http://developer.forecast.io
 2. Enter the API key in weather.py
