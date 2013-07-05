@@ -2,10 +2,10 @@ rain-forecast
 =============
 
 Gives a simple rain forecast based on data by forecast.io and using the
-[Python wrapper by Ze'ev Gilovitz and Tim Heckman](https://github.com/ZeevG/python-forcast.io). The bars are
-the precipitation probability of there being precipitation at the given time.
-If there is a possibility, the description on the right is regarding strength
-of the precipitation.
+[Python wrapper by Ze'ev Gilovitz and Tim Heckman](https://github.com/ZeevG/python-forcast.io).
+
+ * The bars are the probability of there being precipitation at the given time.
+ * The description on the right is the strength of the precipitation if there is any.
 
 1. Create your API key at http://developer.forecast.io
 2. Enter the API key in weather.py
@@ -41,11 +41,11 @@ Example output:
     
      0.0  0.1  0.2  0.3  0.4  0.5  0.6  0.7  0.8  0.9  1.0
      
-## License for this code
+## License for weather.py
 
 Do whatever you want as long as you don't hold me liable for anything.
 
-## License for Python wrapper
+## License for Python wrapper (forecastio.py)
 
 ### License (BSD 2-clause)
 
